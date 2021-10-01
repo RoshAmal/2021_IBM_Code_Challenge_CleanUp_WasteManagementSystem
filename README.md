@@ -1,2 +1,2 @@
-# 2021_IBM_Code_Challenge_CleanUp_WasteManagementSystem
-our project title "Clean Up"
+The project aims to  manage waste efficiently using an Android application in which people can take pictures of waste dumps on their streets and upload to it to the app. The nearest waste pickers get notified with the image of the waste along with the location where it is situated. 
+Once the waste picker accepts the task of cleaning, the application will redirect them to the location where the dump is situated, so that they can schedule a lorry visit and clean that place. After cleaning the street, the waste picker takes  the picture of the cleaned location and uploads it to the application to confirm the clean up. Person who uploaded a picture of  waste will be rewarded with some points.
