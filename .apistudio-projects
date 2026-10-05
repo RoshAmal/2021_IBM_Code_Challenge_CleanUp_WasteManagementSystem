@@ -11,16 +11,14 @@ projects:
       - watsonx
       - llm-proxy
       - ai
-    lastUpdated: 1791217155893
-  Interact_GW_Weather_MCP_Server:
-    id: yEBUjAan
-    description: >-
-      MCP Server connection on DataPower Nano Gateway exposing Singapore Weather
-      API tools for real-time air temperature readings from NEA weather
-      stations, with quota and telemetry policies.
-    tags:
-      - DataPower Nano Gateway
-      - mcp-server
-      - weather-api
-      - ai
-    lastUpdated: 1791217167998
+    lastUpdated: 1791217110815
+  test2:
+    id: MLJEEbfU
+    description: ''
+    tags: []
+    lastUpdated: 1791217171273
+  test:
+    id: agBnXf4U
+    description: ''
+    tags: []
+    lastUpdated: 1791217229224
